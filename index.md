@@ -1,3 +1,3 @@
-## SHINOTYPE
+## Shino's Projects
 
-[QA Assistant](qa-assistant/index.html)
+* [QA Assistant](qa-assistant/index.html)
