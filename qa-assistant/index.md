@@ -1,5 +1,7 @@
 # QA Assistant
 
+ ![Screenshot of the QA Assistant](assist.png)
+
 The QA Assistant is a tool to make the process of QAing a novel or other piece of writing easier. This add-on displays common proofreading-related issues and errors, along with the number of occurrences of each issue. Whenever possible, it provides regexes which you can use to search your document for said issues. 
 
 **It does:**
