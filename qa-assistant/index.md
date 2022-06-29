@@ -23,4 +23,4 @@ If you like this tool, consider dropping a [donation](https://ko-fi.com/shinotyp
 
 * [Privacy Policy](privacy.html)
 * [Terms of Service](terms.html)
-* [Contact the developer](.../support.html)
+* [Contact the developer](../support.html)
