@@ -7,3 +7,7 @@ This website contains information about my personal projects. Rest assured that 
 ### Projects:
 
 * [QA Assistant](qa-assistant/index.html)
+
+### Other:
+
+* [Contact the developer](support.html)
