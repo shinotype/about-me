@@ -25,8 +25,11 @@ It does not:
 
 This is a **personal project** for which I am not being paid, and is offered free of charge. Please view the privacy policy and terms of service below for more information.
 
+If you have bug reports or feature requests, please visit the [Github repo](https://github.com/shinotype/shino-qa-tool).
+
 If you like this tool, consider dropping a [donation](https://ko-fi.com/shinotype) to say thank you!
 
 * [Privacy Policy](privacy.html)
 * [Terms of Service](terms.html)
+* [GitHub repo](https://github.com/shinotype/shino-qa-tool)
 * [Contact the developer](../support.html)
