@@ -2,7 +2,7 @@
 
 The QA Assistant makes the process of QAing a novel or other piece of writing easy!
 
-## [DOWNLOAD HERE](https://workspace.google.com/marketplace/app/qa_assistant/323857468426)
+### [DOWNLOAD HERE](https://workspace.google.com/marketplace/app/qa_assistant/323857468426)
 
 This add-on displays common proofreading-related issues and errors, along with the number of occurrences of each issue. Whenever possible, it provides regexes which you can use to search your document for those issues.
 
