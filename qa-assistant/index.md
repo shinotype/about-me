@@ -1,6 +1,6 @@
 # QA Assistant
 
-⬥
+***
 
 ### [DOWNLOAD HERE](https://workspace.google.com/marketplace/app/qa_assistant/323857468426)
 
