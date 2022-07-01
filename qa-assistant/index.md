@@ -23,6 +23,6 @@ This is a **personal project** for which I am not being paid, and is offered fre
 
 If you like this tool, consider dropping a [donation](https://ko-fi.com/shinotype) to say thank you!
 
-* [Privacy Policy](privacy.html)
-* [Terms of Service](terms.html)
-* [Contact the developer](../support.html)
+▸ [Privacy Policy](privacy.html)
+▸ [Terms of Service](terms.html)
+▸ [Contact the developer](../support.html)
