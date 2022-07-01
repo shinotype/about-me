@@ -1,6 +1,10 @@
 # QA Assistant
 
+# 
+
 ## [DOWNLOAD HERE](https://workspace.google.com/marketplace/app/qa_assistant/323857468426)
+
+# 
 
 The QA Assistant makes the process of QAing a novel or other piece of writing easy!
 
